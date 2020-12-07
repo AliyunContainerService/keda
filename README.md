@@ -40,6 +40,7 @@ We are a Cloud Native Computing Foundation (CNCF) sandbox project.
 * [QuickStart - Azure Functions and Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
 * [QuickStart - Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4)
 * [QuickStart - Azure Storage Queue with ScaledJob](https://github.com/kedacore/sample-go-storage-queue)
+* [QuickStart - MongoDB with ScaledJob ](https://github.com/kedacore/sample-go-mongo)
 
 You can find several samples for various event sources [here](https://github.com/kedacore/samples).
 

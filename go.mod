@@ -34,6 +34,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tidwall/gjson v1.6.1
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
+	go.mongodb.org/mongo-driver v1.1.2
 	google.golang.org/api v0.31.0
 	google.golang.org/genproto v0.0.0-20200904004341-0bd0a958aa1d
 	google.golang.org/grpc v1.31.1
